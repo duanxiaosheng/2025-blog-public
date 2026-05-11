@@ -69,11 +69,11 @@
 	"isCachePem": false,
 	"hideEditButton": false,
 	"enableCategories": true,
-	"currentHatIndex": 3,
+	"currentHatIndex": 6,
 	"hatFlipped": false,
-	"enableChristmas": false,
+	"enableChristmas": true,
 	"beian": {
-		"text": "",
-		"link": ""
+		"text": "测试",
+		"link": "123.com"
 	}
 }
